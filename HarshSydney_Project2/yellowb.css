@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body {
+	background-color: gold;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	
+}
+
+.a {
+	text-align: center;
+	left: 400px;
+	top: 20px;
+	
+}
+
+.placement {
+	position:absolute;
+}
+
+
+.first {
+	top: 400px;
+}
+
+.second {
+	top:900px;
+}
+
+.third {
+	top: 1300px;
+}
+
+.fourth {
+	top: 1700px;
+
+}
+
+.fifth {
+	top: 2000px;
+}
+
+.sixth {
+	top: 2500px;
+}
+
+.sign {
+	top: 3300px;
+	left: 750px;
+}

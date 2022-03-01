@@ -1,0 +1,74 @@
+@charset "UTF-8";
+h1{ font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	text-align: center;
+	color: antiquewhite;
+	
+}
+
+h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	text-shadow: color: active;
+	color:azure;
+}
+
+body {
+	padding:0;
+	margin: 0;
+	top:0;
+	border: none;
+	outline: 0;
+}
+
+
+
+.css-selector {
+    background: linear-gradient(277deg, #1da3a5, #c30f0f, #f7f200);
+    background-size: 600% 600%;
+    -webkit-animation: AnimationName 42s ease infinite;
+    -moz-animation: AnimationName 42s ease infinite;
+    -o-animation: AnimationName 42s ease infinite;
+    animation: AnimationName 42s ease infinite;
+}
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+.placement {
+	position: absolute;
+}
+
+
+.red {
+	left: 590px;
+	top: 400px;
+}
+
+.yellow {
+	left: 690px;
+	top:400px;
+	align-content: center;
+}
+
+.blue {
+	left: 790px;
+	top:400px;
+}
+
